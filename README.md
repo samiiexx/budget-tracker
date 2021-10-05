@@ -1,12 +1,12 @@
-# Website Title
+# Budget Tracker
 Include Description
 
-![Website Title](screenshot.jpg)
+![Budget Tracker](screenshot.jpg)
 
 ## Built With
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [SASS](https://sass-lang.com/)
-- [jQuery](https://jquery.com/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Requirements
  - NPM
@@ -14,7 +14,7 @@ Include Description
 
 ## Install
 ```
-    $ git clone git@github.com:repo/website-title.git main
+    $ git clone git@github.com:samiiexx/sam-budget-tracker.git main
     $ cd main
     $ npm install
     $ npm run build
